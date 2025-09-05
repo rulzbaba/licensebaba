@@ -1,0 +1,28 @@
+{
+  "licenses": {
+    "HWID-BMQ3VAQOLMG5X3OTWA0X": {
+      "user": "dadada",
+      "license_key": "adadad",
+      "expiry_date": "2025-08-25",
+      "status": "active",
+      "creation_date": "2025-01-01",
+      "license_type": "personal"
+    },
+    "HWID-1SV129W14NSPYMYL7": {
+      "user": "cg",
+      "license_key": "123",
+      "expiry_date": "2025-09-30",
+      "status": "active",
+      "creation_date": "2023-12-01",
+      "license_type": "personal"
+    },
+    "HWID-RYLHH9HBIK561R0ET60Z": {
+      "user": "rulz",
+      "license_key": "rulz1234",
+      "expiry_date": "2030-08-30",
+      "status": "active",
+      "creation_date": "2025-08-24",
+      "license_type": "personal"
+    }
+  }
+}
